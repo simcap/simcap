@@ -1,16 +1,42 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**simcap/simcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-on Tech Lead, Architect, Devops & Security Engineer with 15 years in various industries / countries / team dynamics.
 
-Here are some ideas to get you started:
+🌱 I collaboratively design, build, secure and deploy reliable software solutions, at the moment using the [Go](https://go.dev) ecosystem. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:triangular_flag_on_post: I am located in Paris. My [CV page](https://simcap.github.io/) for full details
+
+:link: My [Go workshops](https://www.rekon.io/workshops) training for programmers based on real life and original content!
+
+:books: Other interests: #Kubernetes #Operators #Fuzzing #AppSec #Malware #MachineLearning #EVM #Blockchains #Layer-2
+
+#### open source :octocat:
+
+* [awless](https://github.com/wallix/awless) - Awards winning project. Lead developer & architect, maintainer
+* [RDF triple store](https://github.com/wallix/triplestore) - Creator and maintainer
+* [Go user agent parser](https://github.com/ua-parser/uap-go/commits?author=simcap) - Early overall re-architecturing
+* [Influx Data / High Availability Relay](https://github.com/influxdata/influxdb-relay) - 1 improvement
+* [Influx Data / Time Series DB](https://github.com/influxdata/influxdb) - 2 bug fixes
+
+#### design & development :construction_worker:
+
+* Platform & backend design, architecture and scalability
+* Core business logic, tooling, open source development
+* Blockchain (EVM) ecosystem specific development
+
+#### security :lock:
+
+* Code reviews, audit of components and infrastructure
+* Product threat model and analysis
+* Public infrastructure analysis
+
+#### devops :aerial_tramway:
+
+* Deploy pragmatic infrastructure in the 3 major cloud offers
+* Build CI/CD pipelines that are deterministic and test driven
+* Implement Kubernetes specific logic
+
+#### team & process :rugby_football:
+
+* Agility, eXtreme Programming
+* team recruitment flow and junior mentoring
