@@ -4,7 +4,7 @@
 
 📡 My expertise extends to the security sector, where I provide defensive/offensive services, trainings and consultancy.
 
-:triangular_flag_on_post: I am located in Paris. For full details, here is my [CV page](https://simcap.github.io/).
+:triangular_flag_on_post: I am located in Paris. For full details, here is my [profile page](https://simcap.github.io/).
 
 :teacher: For engineers, I created [original hands-on curriculum Go workshops](https://rekon.io/workshops/)
 
