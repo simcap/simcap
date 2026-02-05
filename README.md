@@ -6,11 +6,15 @@
 
 :triangular_flag_on_post: I am located in Paris. For full details, here is my [CV page](https://simcap.github.io/).
 
-:link: I provide professional Go workshops training based on real life and original content!
+:teacher: For engineers, I created [original hands-on curriculum Go workshops](https://rekon.io/workshops/)
 
-:books: Interests: #Go #AppSec #CloudSec #KubeSec #PlatformSec #Kubernetes #Operators #Fuzzing #MachineLearning #Blockchains #LLM #Pentesting
+:link: For subscribers, I build my own products. Ex: the _Automated Infrastrucure Analysis_ product [Surface](https://surface.rekon.io/).
+
+:books: Interests: #Go #AppSec #CloudSec #KubeSec #PlatformSec #Kubernetes #Operators #Fuzzing #MachineLearning #Blockchains #LLM #Pentesting #OffSec #SecOps
 
 #### open source :octocat:
+
+Some historical public code contributions I can share:
 
 * [awless](https://github.com/wallix/awless) - Awards winning project. Lead developer & architect, maintainer
 * [RDF triple store](https://github.com/wallix/triplestore) - Creator and maintainer
