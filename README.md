@@ -4,11 +4,11 @@
 
 📡 My expertise extends to the security sector, where I provide defensive/offensive services, trainings and consultancy.
 
-:triangular_flag_on_post: I am located in Paris. For full details, here is my [profile page](https://simcap.github.io/).
-
-:teacher: For engineers, I created [original hands-on curriculum Go workshops](https://rekon.io/workshops/)
+:teacher: For engineers, I created my own curriculum [Go](https://rekon.io/workshops/) and [security awareness](https://secaware.rekon.io) hands-on workshops.
 
 :link: For subscribers, I build my own products. Ex: the _Automated Infrastrucure Analysis_ product [Surface](https://surface.rekon.io/).
+
+:triangular_flag_on_post: I am located in Paris. For full details, here is my [profile page](https://simcap.github.io/).
 
 :books: Interests: #Go #AppSec #CloudSec #KubeSec #PlatformSec #Kubernetes #Operators #Fuzzing #MachineLearning #Blockchains #LLM #Pentesting #OffSec #SecOps
 
